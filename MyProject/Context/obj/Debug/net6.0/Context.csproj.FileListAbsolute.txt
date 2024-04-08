@@ -1,0 +1,14 @@
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\bin\Debug\net6.0\Context.deps.json
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\bin\Debug\net6.0\Context.dll
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\bin\Debug\net6.0\Context.pdb
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\obj\Debug\net6.0\Context.dll
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\obj\Debug\net6.0\refint\Context.dll
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\obj\Debug\net6.0\Context.pdb
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+C:\Users\Michal\Desktop\MyProject\MyProject\Context\obj\Debug\net6.0\ref\Context.dll
