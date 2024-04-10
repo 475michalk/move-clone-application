@@ -22,7 +22,6 @@ function MapsSection() {
     width: '100%',
     height: window.innerWidth * 0.43
   };
-  const GOOGLEMAP_KEY = 'AIzaSyBNVjEXhyDOUvcCECJFY5x_OGKt38dxVBk';
 
   const [center, setCenter] = useState({
     lat: 32.0819,

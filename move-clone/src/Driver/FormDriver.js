@@ -8,31 +8,6 @@ const FormDriver = () => {
     const navigate = useNavigate();
 
 
-
-    // const HandleConfirmation = () => {
-    //     const isNameValid = /^[A-Za-zא-ת\s]+$/u.test(refName.current.value) && refName.current.value.length > 1;
-    //     const isEmailValid = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(refEmail.current.value);
-    //     const isPhoneNumberValid = /^\d{10}$/.test(refPhone.current.value);
-    //     setIsConfirm(true);
-    //     setIsValidName(isNameValid);
-    //     setIsValidEmail(isEmailValid);
-    //     setIsValidPhoneNumber(isPhoneNumberValid);
-
-    //     if (isNameValid && isEmailValid  && isPhoneNumberValid) {
-    //         setCourier({
-    //             IsActive: false,
-    //             Name: refName.current.value,
-    //             Email: refEmail.current.value,
-    //             Phone: refPhone.current.value,
-    //             lastShipment: new Date().toISOString()
-    //         });
-    //         setIsCorrect(true);
-    //     }
-    //     else {
-    //         setIsCorrect(false);
-    //     }
-    // }
-
     return (
         <div className="container">
             <form>

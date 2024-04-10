@@ -24,40 +24,7 @@ function Header() {
     const dispatch = useDispatch();
     const navigate = useNavigate(); // Initialize useNavigate
 
-    // useEffect(() => {
-    //     if (user) {
-    //         const userEmail = user.emailAddresses.find(email => email.verification.status === 'verified');
 
-    //         //add User
-    //         if (userEmail) {
-    //             console.log('User email:', userEmail.emailAddress);
-    //             dispatch(fetchUser()).then((userData) => {
-    //                 // const emailExists = userData.email === userEmail.emailAddress;
-    //                 // if (emailExists) {
-    //                 dispatch(addUserToServer({ email: userEmail.emailAddress, password: 'YourPassword', username: user.firstName }));
-    //                 // } else {
-    //                 //     console.log("Email already exists in the database");
-    //                 // }
-    //             });
-    //         } else {
-    //             console.log('User does not have a verified email address.');
-    //         }
-    //         console.log('User username:', user.firstName);
-    //     }
-    // }, [user, dispatch]);
-
-    // const headerMenu = [
-    //     {
-    //         id: 1,
-    //         name: "Ride",
-    //         icon: taxi
-    //     },
-    //     {
-    //         id: 2,
-    //         name: "Package",
-    //         icon: pack
-    //     }
-    // ];
 
 
 

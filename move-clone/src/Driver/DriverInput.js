@@ -13,7 +13,6 @@ function DriverInput({ type }) {
     const { source, setSource } = useContext(Context);
 
 
-const GOOGLEMAP = 'AIzaSyBNVjEXhyDOUvcCECJFY5x_OGKt38dxVBk';
 
     useEffect(() => {
         type == 'source'

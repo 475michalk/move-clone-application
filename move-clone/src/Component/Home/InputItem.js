@@ -14,7 +14,6 @@ function InputItem({ type }) {
     const { source, setSource } = useContext(SourceContext);
     const { desitnation, setDestination } = useContext(DestinationContext);
 
-    const GOOGLEMAP_KEY = 'AIzaSyBNVjEXhyDOUvcCECJFY5x_OGKt38dxVBk';
 
     useEffect(() => {
         type == 'source'

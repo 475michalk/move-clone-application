@@ -16,7 +16,6 @@ function DriverMap() {
 
 
   };
-  const GOOGLEMAP_KEY = 'AIzaSyBNVjEXhyDOUvcCECJFY5x_OGKt38dxVBk';
 
   const [center, setCenter] = useState({
     lat: 32.0819,
